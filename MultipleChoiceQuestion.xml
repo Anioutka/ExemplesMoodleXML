@@ -1,6 +1,6 @@
-<?xml version='1.0' encoding='ISO-8859-1'  ?> 
-<!--MultipleChoiceQuestion.xml--> 
-<dialogue> 
+<?xml version='1.0' encoding='ISO-8859-1'  ?>
+<!--MultipleChoiceQuestion.xml-->
+<dialogue>
 	<question type=multichoice>
 		<name>
 			<text>Demo question à choix multiples</text>
@@ -31,4 +31,8 @@
 		<shuffleanswers>1</shuffleanswers>
 		<single>true</single>
 	</question>
+<<<<<<< HEAD
 </dialogue>
+=======
+</dialogue>
+>>>>>>> 12bd4d3d0f33de2e495ce70654f9baf52ef53f56
